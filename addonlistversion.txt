@@ -6,5 +6,5 @@
   "Reaktor": "1",
   "Raumbelegungsplan": "1",
   "ESC": "1",
-  "ID": "1",
+  "ID": "1"
 }
