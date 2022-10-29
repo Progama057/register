@@ -4,5 +4,10 @@
   "HUD": "1",
   "XO-Anzeige": "1",
   "Scoreboard": "1",
-  "Deathscreen": "1"
+  "Deathscreen": "1",
+  "Lager": "1",
+  "Reaktor": "1",
+  "Raum": "1",
+  "ESC": "1",
+  "ID": "1"
 }
