@@ -1,0 +1,8 @@
+{
+"Akten_System": "1",
+"Datapad": "1.5",
+"HUD": "1",
+"XO_Anzeige": "1",
+"Scoreboard": "1",
+"Deathscreen": "1",
+}
