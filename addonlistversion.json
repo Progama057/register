@@ -1,0 +1,10 @@
+{
+    "main": [
+        {"version": 1.0},
+        {"status": "in arbeit"}
+    ],
+    "hud": [
+        {"version": 1.0},
+        {"status": "released"}
+    ]
+}
