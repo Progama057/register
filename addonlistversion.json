@@ -6,5 +6,9 @@
     "hud": [
         {"version": 1.0},
         {"status": "released"}
-    ]
+    ],
+    "akten": [
+        {"version": 1.0},
+        {"status": "released"}
+    ],
 }
